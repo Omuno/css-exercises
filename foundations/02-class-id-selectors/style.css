@@ -1,0 +1,20 @@
+.back {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: #FFC0CB;
+}
+
+#bluey {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#greeney {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.twentyfour {
+    font-size: 24px;
+    background-color: #FFC0CB;
+}
